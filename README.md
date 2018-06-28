@@ -30,6 +30,10 @@ Far From Noise by George Batchelor (@georgebatch): http://www.georgebatchelor.co
 
 ![Screenshot](http://infiniteammo.com/Yarn/far-from-noise.png)
 
+Lemkin: http://www.lemkin.ca
+
+![Screenshot](http://www.lemkin.ca/images/lemkin-red.png)
+
 YarnTest: http://infiniteammo.com/YarnTest/
 
 Test drive your Yarn files here ^
